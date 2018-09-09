@@ -55,4 +55,6 @@ set land=de
 
 das "de" durch "at"ersetzen.
 
+Ab Version v_0.7
 
+gibt es zusätzlich noch "by" für Bayerisch, die Händler sich hier die gleichen wie de.

@@ -7,18 +7,15 @@
 
 set land=de
 
-#######################################################
-
-set /p SUCHE=Hier gesuchten Artikel eingeben:
-set SUCHE=%SUCHE: =+%
-
-
 
 
 IF "%land%" == "de" (goto de) 
 IF "%land%" == "at" (goto at) 
 
 :de
+
+set /p SUCHE=Hier gesuchten Artikel eingeben:
+set SUCHE=%SUCHE: =+%
 
 :: URL ohne &
 start https://www.google.%land%/search?q=%SUCHE%
@@ -54,6 +51,9 @@ set url=%url%%SUCHE%
 goto ende
 
 :at
+
+set /p SUCHE=Hier den zachen Artikel fix eingem:
+set SUCHE=%SUCHE: =+%
 
 :: URL ohne &
 start https://www.google.%land%/search?q=%SUCHE%

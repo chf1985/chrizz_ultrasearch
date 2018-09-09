@@ -1,22 +1,27 @@
-# chrizz_ultrasearch
-#                                                   #
-#    Dieses Script öffnet gesuchte Artikel im       #
-#	     Standard Browser der mit der             #
-#    Suchengine verschiedener Anbieter und Hilft    #
-#   einen überblick zu schaffe, wo ein Artikel am   #
-#           Günstigsten erhältlich ist.             #
-#                                                   #	
-# ###################################################
+ #chrizz_ultrasearch
 
+Dieses kleine Skript startet mittels Standard Windows Browser die Such Engine mehrerer Händler um einen Artikel Parallel auf allen Webseiten zu finden.
 
-# How to use:
-#
-# Donwnload the .bat an start it.
-#
-# Type in the Artikel you wana find an it opens some Search Egins on you Webbrowser.
-#
-# Testet under:
-#
-# Windows 7  [ ]
-# Windows 8  [ ]
-# Windows 10 [x]
+Zur Verwendung:
+
+Nach Start des Skripts, verlangt dieses nach einem Artikel.
+Der Artikel kann entweder mittels Copy & Paste oder per Eingabe übergeben werden.
+z. B
+„iphone“
+Bei spezifischer Eingabe, bitte einen Leerschritt zwischen Artikel und dessen Spezifikation.
+z. B.
+„iphone x“
+
+Aktuell sind folgende Deutsche Händler integriert:
+
+-	Google Suche
+-	Otto
+-	Expert
+-	Conrad
+-	Schwanthaler-Computer
+-	Notebooksbilliger
+-	Saturn
+-	Amazon
+-	Media Markt
+-	Check 24
+-	Alternate

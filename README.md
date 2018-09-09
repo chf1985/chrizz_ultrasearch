@@ -1,8 +1,4 @@
 # chrizz_ultrasearch
-#####################################################
-################ Chrizz Ultra Search ################
-####################### v 0.5 #######################
-#####################################################
 #                                                   #
 #    Dieses Script öffnet gesuchte Artikel im       #
 #	     Standard Browser der mit der             #

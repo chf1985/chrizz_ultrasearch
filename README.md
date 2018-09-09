@@ -1,6 +1,6 @@
 chrizz_ultrasearch
 
-Dieses kleine Skript startet mittels Standard Windows Browser die Such Engine mehrerer Händler um einen Artikel Parallel auf allen Webseiten zu finden.
+Dieses kleine "Windows Shell" Skript startet mittels Standard Windows Browser die Such Engine mehrerer Händler um einen Artikel Parallel auf allen Webseiten zu finden.
 
 Zur Verwendung:
 

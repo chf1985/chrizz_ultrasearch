@@ -3,14 +3,6 @@
 ::################ Chrizz Ultra Search ################
 ::####################### v 0.5 #######################
 ::#####################################################
-::#                                                   #
-::#    Dieses Script öffnet gesuchte Artikel im       #
-::#	     Standard Browser der mit der             #
-::#    Suchengine verschiedener Anbieter und Hilft    #
-::#   einen überblick zu schaffe, wo ein Artikel am   #
-::#           Günstigsten erhältlich ist.             #
-::#                                                   #	
-::# ###################################################
 
 
 set /p SUCHE=Hier gesuchten Artikel eingeben:

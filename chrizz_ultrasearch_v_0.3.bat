@@ -11,12 +11,7 @@
 ::#           Günstigsten erhältlich ist.             #
 ::#                                                   #	
 ::# ###################################################
-::#                                                   #
-::#     Für erweiterungen mittels mehr Anbieter       #
-::#                 bitte E-Mail an		      #
-::#                chf1985@gmail.com                  #
-::#                                                   #
-::# ###################################################
+
 
 set /p SUCHE=Hier gesuchten Artikel eingeben:
 set SUCHE=%SUCHE: =+%

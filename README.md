@@ -52,7 +52,6 @@ Um das Script auf Österreich um zu stellen, einfach im Script in der Kofig Sect
 ::# Konfig Section                                    #
 
 set land=de
-#######################################################
 
 das "de" durch "at"ersetzen.
 

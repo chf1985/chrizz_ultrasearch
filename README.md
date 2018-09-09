@@ -43,16 +43,19 @@ Aktuell sind folgende Österreichische Händler integriert:
 
 
 
-Ab Version v_0.6
+Ab Version v_0.8
 
-Ist erweiterter Landes Support drin, Aktuell habe ich Ösaterreich hinzugefügt, natürlich sind in Österreich nicht alle Händler vorhanden, ich habe dies im Script entsprechend berücksichtig.
+Ist erweiterter Landes Support drin, Aktuell habe ich Ösaterreich hinzugefügt, natürlich sind in Österreich nicht alle Händler vorhanden, 
+ich habe dies im Script entsprechend berücksichtig.
 
-Um das Script auf Österreich um zu stellen, einfach im Script in der Kofig Section:
 
-::# Konfig Section                                    #
+Mittels "OSLanguage" wird die Sprache bzw. das Land auf Basis der Windows Sprach konfiguration Automatisch erkannt und entsprechend gesetzt.
 
-set land=de
+Aktueller Support nur "Deutschland" und "Österreich".
 
-das "de" durch "at"ersetzen.
+
+
+
+
 
 

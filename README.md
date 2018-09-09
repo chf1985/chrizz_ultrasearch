@@ -1,4 +1,4 @@
- #chrizz_ultrasearch
+ #chrizz_ultrasearch#
 
 Dieses kleine Skript startet mittels Standard Windows Browser die Such Engine mehrerer Händler um einen Artikel Parallel auf allen Webseiten zu finden.
 

@@ -31,3 +31,29 @@ Aktuell sind folgende Deutsche Händler integriert:
 -	Media Markt
 -	Check 24
 -	Alternate
+
+Aktuell sind folgende Österreichische Händler integriert:
+
+-	Google Suche
+-	Conrad
+-	Saturn
+-	Media Markt
+-	Alternate
+
+
+
+
+Ab Version v_0.6
+
+Ist erweiterter Landes Support drin, Aktuell habe ich Ösaterreich hinzugefügt, natürlich sind in Österreich nicht alle Händler vorhanden, ich habe dies im Script entsprechend berücksichtig.
+
+Um das Script auf Österreich um zu stellen, einfach im Script in der Kofig Section:
+
+::# Konfig Section                                    #
+
+set land=de
+#######################################################
+
+das "de" durch "at"ersetzen.
+
+
